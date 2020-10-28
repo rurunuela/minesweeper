@@ -1,2 +1,2 @@
 # minesweeper
-minesweeper in swift From codingame challenge
+minesweeper in swift from codingame challenge
